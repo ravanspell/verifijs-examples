@@ -1,0 +1,27 @@
+{
+  "name": "express-validation-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravanspell/express-validation-example.git"
+  },
+  "author": "Ireshan M Pathirana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravanspell/express-validation-example/issues"
+  },
+  "homepage": "https://github.com/ravanspell/express-validation-example#readme",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "verifijs": "^1.0.1"
+  }
+}
